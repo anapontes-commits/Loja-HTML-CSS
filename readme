@@ -1,0 +1,19 @@
+# Loja Virtual
+
+Este é um projeto simples de uma **Loja Virtual** desenvolvido com **HTML e CSS**, que exibe produtos em destaque com informações básicas e botões de compra (simulados, sem funcionalidade real).
+
+## 🛒 Funcionalidades
+
+- Exibição de produtos com nome, descrição e preço.
+- Botão de **Comprar** para cada produto.
+- Layout limpo e responsivo usando **Flexbox**.
+- Destaque visual para preços em verde e botões chamativos.
+
+## 💻 Tecnologias Utilizadas
+
+- **HTML5** – Estrutura da página.
+- **CSS3** – Estilo e layout.
+- **Flexbox** – Organização dos produtos em cards responsivos.
+
+## 🖼️ Estrutura do Projeto
+
